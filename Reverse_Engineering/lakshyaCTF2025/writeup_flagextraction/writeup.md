@@ -13,7 +13,7 @@
   * ![[Pasted image 20250421183739.png]]
   * open the DLL in iLSpy
   * ![[Pasted image 20250421183917.png]]
-
+![Temp Folder with RE.dll](location.png)
 
 ### lol , theres the flag [SUPER SIMPLE 600 points 🚀🚀]
 
