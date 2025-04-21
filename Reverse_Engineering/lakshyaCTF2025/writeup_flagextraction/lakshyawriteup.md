@@ -2,7 +2,7 @@
 
 #### 1. loaded the executable in ida 
  * found several references to "hostfxr"
- * ![exports_imports](Pasted image 20250421183239.png)
+ * [![exports_imports](Pasted image 20250421183239.png)]
     as we know `hostfxr.dll` is part of the **.NET Core/.NET 5+ hosting layer**. It’s responsible for bootstrapping and initializing .NET Core applications. Think of it as the **runtime loader**.
   * and as it is a bundle means its self-contained app, you can often find the `.dll` of the main app near the `.exe`
   * so now we check strings for any EXTRA .dll resource 
